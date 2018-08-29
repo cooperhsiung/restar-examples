@@ -4,8 +4,9 @@
   "description": "restar examples",
   "main": "basic.js",
   "dependencies": {
+    "express-session": "^1.15.6",
     "request": "^2.88.0",
-    "restar": "^1.0.6",
+    "restar": "^1.0.7",
     "serve-static": "^1.13.2"
   },
   "devDependencies": {},
