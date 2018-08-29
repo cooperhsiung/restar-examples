@@ -5,7 +5,7 @@
   "main": "basic.js",
   "dependencies": {
     "request": "^2.88.0",
-    "restar": "^1.0.3",
+    "restar": "^1.0.6",
     "serve-static": "^1.13.2"
   },
   "devDependencies": {},
