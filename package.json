@@ -4,6 +4,7 @@
   "description": "restar examples",
   "main": "basic.js",
   "dependencies": {
+    "cors": "^2.8.4",
     "express-session": "^1.15.6",
     "request": "^2.88.0",
     "restar": "^1.0.7",
